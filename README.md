@@ -17,11 +17,9 @@ Your task is to create a fun and functional Vue.js powered virtual aquarium.
 - Allow users to feed the fish. Each fish should have a hunger level that increases over time and resets when fed.
 - Have fun with this and be as creative or minimal as you'd like.
 
-## Example of finished App
-
-![gif of the finished aquarium app](https://imgur.com/BTT0xxK.gif)
-
-
 ## Live
 
+https://celebrated-starburst-4de831.netlify.app/
+
+![vue-virtual-aquarium-img](https://github.com/GonzaloVolonterio/vue-virtual-aquarium/assets/64506662/8e6a1601-ca29-4469-8743-f00b70bc82cb)
 
